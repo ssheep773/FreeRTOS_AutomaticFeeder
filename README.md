@@ -2,8 +2,8 @@ Automatic feeder
 --
 HackMD
 https://hackmd.io/@Xsheep/FreeRTOS_AutomaticFeeder
+![圖片1123](https://github.com/user-attachments/assets/607ebd38-353a-46d5-ab31-11ec2deed3c2)
 
-![S__42000416](https://github.com/user-attachments/assets/e7f043ae-ae44-4c36-8b24-9c663342671d)
 
 Demo video
 --
